@@ -1,16 +1,16 @@
 import os
 
-API_ID = API_ID = 22609670
+API_ID = API_ID = 23011537
 
-API_HASH = os.environ.get("API_HASH", "3506d8474ad1f4f5e79b7c52a5c3e88d")
+API_HASH = os.environ.get("API_HASH", "cd59a9fc8cbdca6ae2b405f149cc3c8a")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6739442523:AAHHA5HZmU6sqI-elmhTs8dwHqfhTizWwnQ")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7483811838:AAHTexAJ5IQIMjOSOag6bNV5QTPC5DHlS54")
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
-OWNER = int(os.environ.get("OWNER", 6981453498))
+OWNER = int(os.environ.get("OWNER", 5389632871))
 
-LOG = -1002029805707
+LOG = -1002341764297
 
 try:
     ADMINS=[]
